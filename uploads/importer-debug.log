@@ -1,0 +1,85 @@
+=== StarBiz Importer Debug Log ===
+[23-May-2026 10:25:21 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:25:21 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:25:40 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:25:44 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:26:00 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:26:01 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:26:02 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:26:02 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:26:10 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:26:13 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:26:15 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:26:36 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:26:37 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:26:41 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:26:43 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:26:46 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:26:52 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:26:58 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:27:01 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:27:07 UTC] ✅ Site reset before importing: Demo 1
+[23-May-2026 10:27:33 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:28:01 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:28:02 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:28:30 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:28:58 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:29:02 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:29:27 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:29:56 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:30:04 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:30:26 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:30:29 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:30:32 UTC] ✅ Menu assigned: main → primary
+[23-May-2026 10:30:32 UTC] ✅ Menu assigned: footer menu → footer
+[23-May-2026 10:30:32 UTC] ✅ Header/Footer assigned via Redux options.
+[23-May-2026 10:30:32 UTC] ✅ After import setup complete.
+[23-May-2026 10:30:32 UTC] ✅ [StarBiz] Elementor URL Replacer finished — 37 records updated.
+[23-May-2026 10:30:32 UTC] ✅ Elementor cache and CSS regenerated successfully.
+[23-May-2026 10:30:32 UTC] >>> [Import End] Array
+(
+    [import_file_name] => Demo 1
+    [local_import_file] => C:\xampp\htdocs\starbiz\wp-content\plugins\starbiz-demo-importer/demo1/content.xml
+    [local_import_customizer_file] => C:\xampp\htdocs\starbiz\wp-content\plugins\starbiz-demo-importer/demo1/customizer.dat
+    [import_preview_image_url] => http://localhost/starbiz/wp-content/plugins/starbiz-demo-importer/demo1/demo1.png
+    [preview_url] => 
+)
+
+[23-May-2026 10:30:32 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:30:32 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:30:51 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:30:54 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:31:05 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:33:05 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:35:07 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:36:08 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:38:08 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[23-May-2026 10:40:19 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 08:28:14 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 08:30:13 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 08:38:39 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 08:38:42 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 08:38:46 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:17:25 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:18:03 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:18:08 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:18:12 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:18:16 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:18:18 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:18:19 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:19:21 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:19:22 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:20:21 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:21:22 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:23:01 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:24:00 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:26:01 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:27:02 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:29:03 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:31:05 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:33:38 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:35:39 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:51:30 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:52:37 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:54:38 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).
+[25-May-2026 09:56:40 UTC] ✅ Elementor theme builder cache fully rebuilt (shutdown hook).

@@ -1,0 +1,115 @@
+html,body{
+            font-family: Montserrat !important;
+
+}
+.back-to-top{
+  position: fixed; 
+    bottom: 20px !important;
+    right: 20px !important;
+    display: block !important;
+    padding: 0px 12px !important;
+    height: 50px !important;
+    width: 50px !important;
+    font-size: 34px !important;
+    line-height: 4px !important;
+    background-color: #0d6efd !important;
+    color: #fff !important;
+    text-decoration: none;
+    z-index: 9999;
+    border-radius: 50%;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+/* Sidebar widgets */
+.widget-area .widget {
+    margin-bottom: 20px;
+}
+
+.widget-area .widget-title {
+    font-weight: 700;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #3C3E49; /* Accent color */
+    padding-bottom: 5px;
+    color: #262935;
+}
+
+/* Links in sidebar */
+.widget-area a {
+    color: #262935;
+    text-decoration: none;
+}
+
+.widget-area a:hover {
+    text-decoration: underline;
+    color: #262935;
+}
+
+/* Optional: search widget input */
+.widget_search input[type="search"] {
+    border-radius: 4px;
+    padding: 6px 10px;
+    border: 1px solid #ccc;
+}
+
+.widget_search input[type="submit"] {
+    background-color: #262935;
+    color: #fff;
+    border: none;
+    padding: 6px 12px;
+    margin-left: 5px;
+    border-radius: 4px;
+}
+
+.widget_search input[type="submit"]:hover {
+    background-color: #262935;
+}
+
+
+
+/* *** */
+.why-choose-us-section {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Before element for the animated background */
+.why-choose-us-section::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, #007bff 0%, #007bff 100%);
+  transform: translateY(-100%);
+  opacity: 1;
+  transition: transform 1s ease-in-out;
+  z-index: 0;
+}
+
+/* Trigger the animation on load with JS class */
+.why-choose-us-section.animate-bg::before {
+  transform: translateY(0%);
+}
+
+/* Make sure the content stays above the animated bg */
+.why-choose-us-section > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* Refactored inline styles */
+.site-main-padding {
+    padding: 60px 0;
+}
+
+.entry-title-link {
+    color: black;
+    text-decoration: none;
+}
+
+.entry-title-link:hover {
+    color: black;
+    text-decoration: underline;
+}
+
