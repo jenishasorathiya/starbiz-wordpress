@@ -8,32 +8,102 @@
   <img src="https://img.shields.io/badge/WordPress-6.8+-blue?logo=wordpress" alt="WordPress">
   <img src="https://img.shields.io/badge/PHP-7.4+-777BB4?logo=php" alt="PHP">
   <img src="https://img.shields.io/badge/Elementor-Compatible-9146FF" alt="Elementor">
-  <img src="https://img.shields.io/badge/License-GPLv2-green" alt="License">
+  <img src="https://img.shields.io/badge/Redux-Framework-purple" alt="Redux Framework">
   <img src="https://img.shields.io/badge/Version-1.0.0-orange" alt="Version">
+  <img src="https://img.shields.io/badge/License-GPLv2-green" alt="License">
 </p>
+
+---
 
 ## 🌟 Overview
 
-**StarBiz** is a modern, lightweight, and highly customizable WordPress theme built for businesses, agencies, startups, consultants, and service providers.
+**StarBiz** is a modern, lightweight, and highly customizable WordPress business theme designed for agencies, startups, corporate websites, consultants, service providers, and professional businesses.
 
-Designed with performance, responsiveness, and flexibility in mind, StarBiz integrates seamlessly with Elementor and provides everything needed to build professional websites quickly.
+Built with clean code, responsive layouts, and seamless Elementor integration, StarBiz helps users create professional websites quickly and efficiently.
+
+The StarBiz ecosystem includes powerful companion plugins that extend the theme's capabilities and simplify website creation.
+
+---
+
+## 🚀 StarBiz Ecosystem
+
+StarBiz consists of three powerful components working together:
+
+### 🎨 StarBiz Theme
+
+A modern WordPress business theme featuring:
+
+* Responsive layouts
+* SEO-friendly structure
+* Clean and maintainable code
+* Elementor compatibility
+* Business-focused design
+* Flexible customization options
+
+### 🧩 StarBiz Widgets
+
+A dedicated Elementor addon plugin that provides custom widgets specifically designed for StarBiz websites.
+
+Included widgets:
+
+* Hero Sections
+* Service Boxes
+* Team Members
+* Testimonials
+* Counters
+* Call-To-Action Blocks
+* Business Information Sections
+* Icon Boxes
+* Custom Content Sections
+* Advanced Layout Components
+
+### 🚀 StarBiz Demo Importer
+
+Import complete website demos and prebuilt templates with a single click.
+
+Features include:
+
+* Homepage Templates
+* About Pages
+* Service Pages
+* Contact Pages
+* Header Templates
+* Footer Templates
+* Demo Content Import
+* Ready-to-use Website Layouts
+
+### ⚙ Redux Framework Support
+
+StarBiz includes Redux Framework integration for advanced theme customization.
+
+Customize:
+
+* Branding
+* Colors
+* Typography
+* Layout Options
+* Header Settings
+* Footer Settings
+* Theme Preferences
 
 ---
 
 ## ✨ Features
 
-| Feature                  | Description                                          |
-| ------------------------ | ---------------------------------------------------- |
-| 🎨 Elementor Ready       | Fully compatible with Elementor Page Builder         |
-| 📱 Responsive Design     | Optimized for desktop, tablet, and mobile            |
-| ⚡ Fast Loading           | Lightweight and performance-focused                  |
-| 🔍 SEO Friendly          | Clean code and search-engine optimized               |
-| 🌐 Translation Ready     | Supports multilingual websites                       |
-| 🛒 WooCommerce Ready     | Build powerful online stores                         |
-| 🧩 Custom Templates      | Prebuilt layouts and reusable sections               |
-| 🛠 Easy Customization    | Flexible theme settings                              |
-| 🎯 Business Focused      | Ideal for agencies, startups, and corporate websites |
-| 🧑‍💻 Developer Friendly | Clean and maintainable code structure                |
+| Feature                   | Description                                             |
+| ------------------------- | ------------------------------------------------------- |
+| 🎨 Elementor Ready        | Fully compatible with Elementor Page Builder            |
+| 🧩 StarBiz Widgets        | Includes custom Elementor widgets for business websites |
+| 🚀 One-Click Demo Import  | Import ready-made templates instantly                   |
+| ⚙ Redux Framework Support | Advanced theme options and customization                |
+| 📱 Responsive Design      | Optimized for desktop, tablet, and mobile               |
+| ⚡ Fast Loading            | Lightweight and performance-focused                     |
+| 🔍 SEO Friendly           | Clean code and search-engine optimized                  |
+| 🎯 Business Focused       | Designed for agencies, startups, and businesses         |
+| 🛠 Easy Customization     | Flexible settings and layout controls                   |
+| 🧑‍💻 Developer Friendly  | Clean and maintainable code structure                   |
+| 🎭 Prebuilt Templates     | Ready-to-use business page templates                    |
+| 🏗 Custom Theme Options   | Easy branding and layout management                     |
 
 ---
 
@@ -53,6 +123,8 @@ Appearance → Themes → Add New → Upload Theme
 5. Click **Install**.
 6. Activate the theme.
 
+---
+
 ### Method 2: FTP Upload
 
 Upload the theme folder to:
@@ -69,15 +141,16 @@ Appearance → Themes
 
 ---
 
-## 🔧 Recommended Plugins
+## 🔧 Required Plugins
 
-* starbiz-widgets
-* starbiz-demo-importer
-* one-click-demo-importer
-* redux-framework
-* Elementor
-* Elementor Pro
-* Contact Form 7
+For the complete StarBiz experience, install:
+
+| Plugin                | Purpose                  |
+| --------------------- | ------------------------ |
+| StarBiz Widgets       | Custom Elementor widgets |
+| StarBiz Demo Importer | One-click demo imports   |
+| Redux Framework       | Theme options panel      |
+| Elementor             | Page builder integration |
 
 ---
 
@@ -113,7 +186,7 @@ starbiz/
 ├── index.php
 ├── page.php
 ├── single.php
-├── sidbar.php
+├── sidebar.php
 ├── screenshot.png
 └── README.md
 ```
@@ -124,10 +197,11 @@ starbiz/
 
 ### Theme Demo
 
-[🔗 View Live Demo](https://starbiz.great-site.net/wp/)
+👉 https://starbiz.great-site.net/wp/
+
 ### GitHub Repository
 
-[🔗 View Source Code](https://github.com/jenishasorathiya/starbiz-wordpress)
+👉 https://github.com/jenishasorathiya/starbiz-wordpress
 
 ---
 
@@ -139,7 +213,7 @@ starbiz/
 * CSS3
 * JavaScript
 * Elementor
-* WooCommerce
+* Redux Framework
 
 ---
 
@@ -161,7 +235,8 @@ starbiz/
 * Mobile-Friendly Design
 * Optimized CSS & JavaScript
 * SEO Best Practices
-* Accessibility Focused
+* Clean Code Structure
+* Responsive Layouts
 * Cross-Browser Compatibility
 
 ---
@@ -172,25 +247,31 @@ starbiz/
 
 * Initial Release
 * Elementor Integration
+* StarBiz Widgets Support
+* Demo Importer Integration
+* Redux Framework Integration
 * Responsive Design System
 * SEO Optimization
-* Custom Templates
-* Business-Oriented Layouts
+* Business-Oriented Templates
 
 ---
 
 ## 👩‍💻 Author
 
-**Jenisha Sorathiya**
+### Jenisha Sorathiya
 
-Full Stack WordPress Developer
+**Full Stack WordPress Developer**
+
+Specializing in:
 
 * WordPress Development
-* Elementor Expert
-* WooCommerce Development
+* Elementor Development
+* Custom Theme Development
+* Plugin Development
 * Responsive Web Design
 
-GitHub: https://github.com/jenishasorathiya
+GitHub:
+https://github.com/jenishasorathiya
 
 ---
 
@@ -198,10 +279,25 @@ GitHub: https://github.com/jenishasorathiya
 
 This project is licensed under the GPL v2 or later License.
 
-For details visit:
-
+License:
 https://www.gnu.org/licenses/gpl-2.0.html
 
 ---
 
-⭐ If you find StarBiz useful, please consider starring this repository.
+## ⭐ Support
+
+If you find StarBiz useful:
+
+⭐ Star this repository
+
+🐛 Report issues
+
+💡 Suggest new features
+
+📢 Share with the WordPress community
+
+---
+
+<p align="center">
+Built with ❤️ by Jenisha Sorathiya
+</p>
