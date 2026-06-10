@@ -1,5 +1,5 @@
 === StarBiz ===
-Contributors: risingstarinfotech
+Contributors: jenisha sorathiya, risingstarinfotech
 Tags: custom-theme, elementor, responsive, business, agency, modern, lightweight, flexible, block-editor, translation-ready
 Requires at least: 6.8
 Tested up to: 6.8.3
