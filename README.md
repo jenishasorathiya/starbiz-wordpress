@@ -71,12 +71,13 @@ Appearance → Themes
 
 ## 🔧 Recommended Plugins
 
+* starbiz-widgets
+* starbiz-demo-importer
+* one-click-demo-importer
+* redux-framework
 * Elementor
 * Elementor Pro
 * Contact Form 7
-* WooCommerce
-* LiteSpeed Cache
-* Rank Math SEO
 
 ---
 
@@ -103,9 +104,7 @@ starbiz/
 │
 ├── assets/
 ├── inc/
-├── template-parts/
-├── languages/
-├── screenshots/
+├── widgets/
 │
 ├── functions.php
 ├── style.css
@@ -114,6 +113,8 @@ starbiz/
 ├── index.php
 ├── page.php
 ├── single.php
+├── sidbar.php
+├── screenshot.png
 └── README.md
 ```
 
